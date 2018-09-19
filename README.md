@@ -1,2 +1,0 @@
-# NenavidimRozvrhJidelny
-Created with CodeSandbox
